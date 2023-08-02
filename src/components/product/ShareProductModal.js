@@ -15,7 +15,7 @@ function ShareProductModal({ show, onHide, productUrl, productName }) {
   return (
     <>
       <div className="fade modal-backdrop show" onClick={()=>{onHide()}}></div>
-      <div className="share-content" style={{width:"300px", height:"200px", backgroundColor:"white", padding:"20px", position:"absolute", top:"20%", zIndex: 1050}}>
+      <div className="share-content" style={{width:"300px", height:"200px", backgroundColor:"white", padding:"20px", position:"relative", top:"-60%", left:"-5%", zIndex: 1050}}>
         <div className="modal-header" style={{flexDirection: "row-reverse"}}><button type="button" className="btn-close" onClick={()=>{onHide()}}></button></div>
         {/* { productUrl}{ productName } */}
         <h4 style={{fontWeight: 600, textAlign:"center"}}>공유하기</h4>
