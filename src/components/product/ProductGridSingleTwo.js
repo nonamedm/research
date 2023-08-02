@@ -7,7 +7,7 @@ import { getDiscountPrice } from "../../helpers/product";
 import ProductModal from "./ProductModal";
 import ShareProductModal from "./ShareProductModal";
 import { addToCart } from "../../store/slices/cart-slice";
-import { addToWishlist } from "../../store/slices/wishlist-slice";
+import { addToWishlist, deleteFromWishlist } from "../../store/slices/wishlist-slice";
 import { addToCompare } from "../../store/slices/compare-slice";
 
 const ProductGridSingleTwo = ({
@@ -106,11 +106,28 @@ const ProductGridSingleTwo = ({
               <i className="fa fa-share"></i>
             </button>
 
-            <button onClick={() => setModalShow(true)} title="Quick View">
-              <i className="fa fa-eye"></i>
+            <button 
+              className={wishlistItem !== undefined ? "active" : ""}
+              // disabled={wishlistItem !== undefined}
+              title={
+                wishlistItem !== undefined
+                  ? "Added to wishlist"
+                  : "Add to wishlist"
+              }
+              onClick={() => {
+                wishlistItem !== undefined ? dispatch(deleteFromWishlist(product.id)) : dispatch(addToWishlist(product))
+              }}
+            >
+              <i className="fa fa-heart"></i>
             </button>
 
-            <button
+            {/* 상품퀵뷰 주석처리 */}
+            {/* <button onClick={() => setModalShow(true)} title="Quick View">
+              <i className="fa fa-eye"></i>
+            </button> */}
+
+            {/* 상품비교 주석처리 */}
+            {/* <button
               className={compareItem !== undefined ? "active" : ""}
               disabled={compareItem !== undefined}
               title={
@@ -121,7 +138,7 @@ const ProductGridSingleTwo = ({
               onClick={() => dispatch(addToCompare(product))}
             >
               <i className="fa fa-retweet"></i>
-            </button>
+            </button> */}
           </div>
         </div>
         <div className="product-content-2">
@@ -150,7 +167,8 @@ const ProductGridSingleTwo = ({
               )}
             </div>
           </div>
-          <div className="pro-wishlist-2">
+          {/* 찜하기 주석처리(위로보냄) */}
+          {/* <div className="pro-wishlist-2">
             <button
               className={wishlistItem !== undefined ? "active" : ""}
               disabled={wishlistItem !== undefined}
@@ -163,7 +181,7 @@ const ProductGridSingleTwo = ({
             >
               <i className="fa fa-heart-o" />
             </button>
-          </div>
+          </div> */}
         </div>
       </div>
       {/* product modal */}
@@ -181,6 +199,8 @@ const ProductGridSingleTwo = ({
       {
         shareModalShow == true ?
         <ShareProductModal
+          show={shareModalShow}
+          onHide={()=>setShareModalShow(false)}
           productUrl={process.env.PUBLIC_URL + "/product/" + product.id}
           productName={product.name}
         />

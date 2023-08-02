@@ -20,7 +20,7 @@ const HeroSliderNineSingle = ({ data, sliderClass }) => {
               <p
                 className="animated"
                 dangerouslySetInnerHTML={{ __html: data.thirdtitle }}
-                style={{"font-size": "20px"}}
+                style={{fontSize: "20px"}}
               ></p>
               <div className="slider-btn btn-hover">
                 <Link

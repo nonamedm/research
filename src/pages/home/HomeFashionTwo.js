@@ -10,8 +10,8 @@ const HomeFashionTwo = () => {
   return (
     <Fragment>
       <SEO
-        titleTemplate="Fashion Home"
-        description="Fashion home of flone react minimalist eCommerce template."
+        titleTemplate="Research Factory"
+        description="Kmong clone site"
       />
       <LayoutOne
         headerContainerClass="container-fluid"
@@ -24,7 +24,7 @@ const HomeFashionTwo = () => {
         {/* tab product */}
         <TabProductFive spaceBottomClass="pb-60" category="accessories" />
         {/* blog featured */}
-        <BlogFeatured spaceBottomClass="pb-55" />
+        {/* <BlogFeatured spaceBottomClass="pb-55" /> */}
       </LayoutOne>
     </Fragment>
   );
