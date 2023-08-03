@@ -1449,7 +1449,7 @@
     }
     .product-action-2 {
       position: absolute;
-      top: 50%;
+      bottom: 0%;
 
       display: flex;
       justify-content: center;
@@ -1476,10 +1476,10 @@
         border: none;
         border-radius: 50px;
         background: none;
-        background-color: $theme-color;
+        background-color: #000000;
         &:hover,
         &.active {
-          background-color: #fa6bff;
+          background-color: #ff0000;
         }
       }
       &.product-action-2-red {

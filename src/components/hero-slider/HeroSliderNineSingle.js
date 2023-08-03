@@ -10,7 +10,7 @@ const HeroSliderNineSingle = ({ data, sliderClass }) => {
     >
       <div className="container">
         <div className="row">
-          <div className="col-xl-6 col-lg-6 col-md-7 ms-auto">
+          <div className="col-xl-6 col-lg-6 col-md-7">
             <div className="slider-content-2 slider-animated-1">
               <h3 className="animated">{data.title}</h3>
               <h1
@@ -27,7 +27,7 @@ const HeroSliderNineSingle = ({ data, sliderClass }) => {
                   className="animated"
                   to={process.env.PUBLIC_URL + data.url}
                 >
-                  SHOP NOW
+                  프로젝트 의뢰하기
                 </Link>
               </div>
             </div>

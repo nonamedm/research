@@ -366,6 +366,15 @@
         transition: 0.5s;
       }
     }
+    &.four-column {
+      .col-xl-4 {
+        flex: 1 0 25%;
+
+        max-width: 25%;
+
+        transition: 0.5s;
+      }
+    }
   }
   .list {
     .product-wrap {

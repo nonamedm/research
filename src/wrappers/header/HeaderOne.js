@@ -36,7 +36,8 @@ const HeaderOne = ({
       <div
         className={clsx(
           "header-top-area", 
-          headerPaddingClass, top === "visible" ? "d-none d-lg-block" : "d-none", 
+          // headerPaddingClass, top === "visible" ? "d-none d-lg-block" : "d-none", 
+          headerPaddingClass, top === "visible" ? "d-none" : "d-none", 
           borderStyle === "fluid-border" && "border-none" 
         )}
       >
