@@ -9,7 +9,7 @@
     "new": false,
     "rating": 4,
     "saleCount": 54,
-    "category": ["Service A", "men"],
+    "category": ["Service A", "Service A-1"],
     "tag": ["fashion", "men", "jacket", "full sleeve"],
     "variation": [
       {
@@ -94,7 +94,7 @@
     "new": false,
     "rating": 3,
     "saleCount": 12,
-    "category": ["Service A", "women"],
+    "category": ["Service A", "Service A-2"],
     "tag": ["fashion", "women", "coat", "full sleeve"],
     "variation": [
       {
@@ -181,7 +181,7 @@
     "new": true,
     "rating": 5,
     "saleCount": 36,
-    "category": ["Service A", "men"],
+    "category": ["Service A", "Service A-1"],
     "tag": ["fashion", "men", "jacket", "full sleeve"],
     "stock": 1,
     "image": [
@@ -203,7 +203,7 @@
     "new": true,
     "rating": 4,
     "saleCount": 20,
-    "category": ["Service A", "women"],
+    "category": ["Service A", "Service A-2"],
     "tag": ["fashion", "women", "coat", "full sleeve"],
     "variation": [
       {
@@ -288,7 +288,7 @@
     "new": true,
     "rating": 5,
     "saleCount": 25,
-    "category": ["Service A", "women"],
+    "category": ["Service A", "Service A-2"],
     "tag": ["fashion", "women", "coat", "full sleeve"],
     "variation": [
       {
@@ -374,7 +374,7 @@
     "new": true,
     "rating": 5,
     "saleCount": 65,
-    "category": ["Service A", "men"],
+    "category": ["Service A", "Service A-1"],
     "tag": ["fashion", "men", "jacket", "full sleeve"],
     "variation": [
       {
@@ -459,7 +459,7 @@
     "new": true,
     "rating": 5,
     "saleCount": 55,
-    "category": ["Service A", "women"],
+    "category": ["Service A", "Service A-2"],
     "tag": ["fashion", "women", "coat", "full sleeve"],
     "variation": [
       {
@@ -545,7 +545,7 @@
     "new": false,
     "rating": 5,
     "saleCount": 83,
-    "category": ["Service A", "men"],
+    "category": ["Service A", "Service A-1"],
     "tag": ["fashion", "men", "jacket", "full sleeve"],
     "stock": 0,
     "image": [
@@ -567,7 +567,7 @@
     "new": false,
     "rating": 4,
     "saleCount": 95,
-    "category": ["Service A", "women"],
+    "category": ["Service A", "Service A-2"],
     "tag": ["fashion", "women", "top", "sleeveless"],
     "stock": 5,
     "affiliateLink": "//www.amazon.com",
@@ -942,7 +942,7 @@
     "new": false,
     "rating": 4,
     "saleCount": 90,
-    "category": ["plant"],
+    "category": ["Service P"],
     "tag": ["plant"],
     "stock": 15,
     "image": [
@@ -964,7 +964,7 @@
     "new": true,
     "rating": 5,
     "saleCount": 190,
-    "category": ["plant"],
+    "category": ["Service P"],
     "tag": ["plant"],
     "stock": 25,
     "image": [
@@ -986,7 +986,7 @@
     "new": true,
     "rating": 3,
     "saleCount": 90,
-    "category": ["plant"],
+    "category": ["Service P"],
     "tag": ["plant"],
     "stock": 20,
     "image": [
@@ -1008,7 +1008,7 @@
     "new": false,
     "rating": 4,
     "saleCount": 100,
-    "category": ["plant"],
+    "category": ["Service P"],
     "tag": ["plant"],
     "stock": 40,
     "image": [
@@ -1030,7 +1030,7 @@
     "new": true,
     "rating": 5,
     "saleCount": 120,
-    "category": ["plant"],
+    "category": ["Service P"],
     "tag": ["plant"],
     "stock": 45,
     "image": [
@@ -1052,7 +1052,7 @@
     "new": false,
     "rating": 4,
     "saleCount": 20,
-    "category": ["plant"],
+    "category": ["Service P"],
     "tag": ["plant"],
     "stock": 5,
     "image": [
@@ -1074,7 +1074,7 @@
     "new": true,
     "rating": 5,
     "saleCount": 25,
-    "category": ["plant"],
+    "category": ["Service P"],
     "tag": ["plant"],
     "stock": 7,
     "image": [
@@ -1096,7 +1096,7 @@
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["plant"],
+    "category": ["Service P"],
     "tag": ["plant"],
     "stock": 6,
     "image": [
@@ -1338,7 +1338,7 @@
     "new": true,
     "rating": 4,
     "saleCount": 10,
-    "category": ["flower"],
+    "category": ["Service F"],
     "tag": ["flower"],
     "stock": 6,
     "image": [
@@ -1360,7 +1360,7 @@
     "new": false,
     "rating": 5,
     "saleCount": 5,
-    "category": ["flower"],
+    "category": ["Service F"],
     "tag": ["flower"],
     "stock": 7,
     "image": [
@@ -1382,7 +1382,7 @@
     "new": true,
     "rating": 4,
     "saleCount": 7,
-    "category": ["flower"],
+    "category": ["Service F"],
     "tag": ["flower"],
     "stock": 10,
     "image": [
@@ -1404,7 +1404,7 @@
     "new": true,
     "rating": 5,
     "saleCount": 10,
-    "category": ["flower"],
+    "category": ["Service F"],
     "tag": ["flower"],
     "stock": 6,
     "image": [
@@ -1426,7 +1426,7 @@
     "new": true,
     "rating": 3,
     "saleCount": 4,
-    "category": ["flower"],
+    "category": ["Service F"],
     "tag": ["flower"],
     "stock": 7,
     "image": [
@@ -1448,7 +1448,7 @@
     "new": false,
     "rating": 5,
     "saleCount": 2,
-    "category": ["flower"],
+    "category": ["Service F"],
     "tag": ["flower"],
     "stock": 10,
     "image": [
@@ -1470,7 +1470,7 @@
     "new": true,
     "rating": 5,
     "saleCount": 5,
-    "category": ["flower"],
+    "category": ["Service F"],
     "tag": ["flower"],
     "stock": 6,
     "image": [
@@ -1492,7 +1492,7 @@
     "new": true,
     "rating": 5,
     "saleCount": 9,
-    "category": ["flower"],
+    "category": ["Service F"],
     "tag": ["flower"],
     "stock": 10,
     "image": [
@@ -3896,7 +3896,7 @@
     "new": true,
     "rating": 4,
     "saleCount": 14,
-    "category": ["christmas"],
+    "category": ["Service C-1"],
     "tag": ["christmas"],
     "stock": 10,
     "image": [
@@ -3918,7 +3918,7 @@
     "new": false,
     "rating": 5,
     "saleCount": 30,
-    "category": ["christmas"],
+    "category": ["Service C-1"],
     "tag": ["christmas"],
     "stock": 40,
     "image": [
@@ -3940,7 +3940,7 @@
     "new": true,
     "rating": 3,
     "saleCount": 30,
-    "category": ["christmas"],
+    "category": ["Service C-1"],
     "tag": ["christmas"],
     "stock": 25,
     "image": [
@@ -3962,7 +3962,7 @@
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["christmas"],
+    "category": ["Service C-1"],
     "tag": ["christmas"],
     "stock": 40,
     "image": [
@@ -3984,7 +3984,7 @@
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["christmas"],
+    "category": ["Service C-1"],
     "tag": ["christmas"],
     "stock": 60,
     "image": [
