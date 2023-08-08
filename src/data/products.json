@@ -2,14 +2,14 @@
   {
     "id": "1",
     "sku": "asdf123",
-    "name": "Service Name jacket",
+    "name": "Lorem ipsum jacket",
     "price": 12.45,
     "discount": 10,
     "offerEnd": "October 5, 2024 12:11:00",
     "new": false,
     "rating": 4,
     "saleCount": 54,
-    "category": ["Service A", "Service A-1"],
+    "category": ["fashion", "men"],
     "tag": ["fashion", "men", "jacket", "full sleeve"],
     "variation": [
       {
@@ -88,13 +88,13 @@
   {
     "id": "2",
     "sku": "asdf124",
-    "name": "Service Name coat",
+    "name": "Lorem ipsum coat",
     "price": 18.5,
     "discount": 15,
     "new": false,
     "rating": 3,
     "saleCount": 12,
-    "category": ["Service A", "Service A-2"],
+    "category": ["fashion", "women"],
     "tag": ["fashion", "women", "coat", "full sleeve"],
     "variation": [
       {
@@ -174,14 +174,14 @@
   {
     "id": "3",
     "sku": "asdf125",
-    "name": "Service Name jacket",
+    "name": "Lorem ipsum jacket",
     "price": 17.45,
     "discount": 40,
     "offerEnd": "October 2, 2024 12:11:00",
     "new": true,
     "rating": 5,
     "saleCount": 36,
-    "category": ["Service A", "Service A-1"],
+    "category": ["fashion", "men"],
     "tag": ["fashion", "men", "jacket", "full sleeve"],
     "stock": 1,
     "image": [
@@ -197,13 +197,13 @@
   {
     "id": "4",
     "sku": "asdf126",
-    "name": "Service Name fashion coat",
+    "name": "Lorem ipsum fashion coat",
     "price": 15.5,
     "discount": 0,
     "new": true,
     "rating": 4,
     "saleCount": 20,
-    "category": ["Service A", "Service A-2"],
+    "category": ["fashion", "women"],
     "tag": ["fashion", "women", "coat", "full sleeve"],
     "variation": [
       {
@@ -282,13 +282,13 @@
   {
     "id": "5",
     "sku": "asdf127",
-    "name": "Service Name female coat",
+    "name": "Lorem ipsum female coat",
     "price": 25.5,
     "discount": 10,
     "new": true,
     "rating": 5,
     "saleCount": 25,
-    "category": ["Service A", "Service A-2"],
+    "category": ["fashion", "women"],
     "tag": ["fashion", "women", "coat", "full sleeve"],
     "variation": [
       {
@@ -367,14 +367,14 @@
   {
     "id": "6",
     "sku": "asdf128",
-    "name": "Service Name jacket",
+    "name": "Lorem ipsum jacket",
     "price": 19.85,
     "discount": 0,
     "offerEnd": "October 17, 2024 12:11:00",
     "new": true,
     "rating": 5,
     "saleCount": 65,
-    "category": ["Service A", "Service A-1"],
+    "category": ["fashion", "men"],
     "tag": ["fashion", "men", "jacket", "full sleeve"],
     "variation": [
       {
@@ -453,13 +453,13 @@
   {
     "id": "7",
     "sku": "asdf129",
-    "name": "Service Name fashion female coat",
+    "name": "Lorem ipsum fashion female coat",
     "price": 55.5,
     "discount": 40,
     "new": true,
     "rating": 5,
     "saleCount": 55,
-    "category": ["Service A", "Service A-2"],
+    "category": ["fashion", "women"],
     "tag": ["fashion", "women", "coat", "full sleeve"],
     "variation": [
       {
@@ -538,14 +538,14 @@
   {
     "id": "8",
     "sku": "asdf130",
-    "name": "Service Name fashion jacket",
+    "name": "Lorem ipsum fashion jacket",
     "price": 29.85,
     "discount": 10,
     "offerEnd": "October 18, 2024 12:11:00",
     "new": false,
     "rating": 5,
     "saleCount": 83,
-    "category": ["Service A", "Service A-1"],
+    "category": ["fashion", "men"],
     "tag": ["fashion", "men", "jacket", "full sleeve"],
     "stock": 0,
     "image": [
@@ -561,13 +561,13 @@
   {
     "id": "9",
     "sku": "asdf131",
-    "name": "Service Name fashion female top",
+    "name": "Lorem ipsum fashion female top",
     "price": 35.6,
     "discount": 0,
     "new": false,
     "rating": 4,
     "saleCount": 95,
-    "category": ["Service A", "Service A-2"],
+    "category": ["fashion", "women"],
     "tag": ["fashion", "women", "top", "sleeveless"],
     "stock": 5,
     "affiliateLink": "//www.amazon.com",
@@ -584,13 +584,13 @@
   {
     "id": "10",
     "sku": "asdf132",
-    "name": "Service Name blender",
+    "name": "Lorem ipsum blender",
     "price": 15.6,
     "discount": 0,
     "new": false,
     "rating": 4,
     "saleCount": 90,
-    "category": ["Service B"],
+    "category": ["electronics"],
     "tag": ["electronics"],
     "stock": 15,
     "image": [
@@ -606,13 +606,13 @@
   {
     "id": "11",
     "sku": "asdf133",
-    "name": "Service Name speaker",
+    "name": "Lorem ipsum speaker",
     "price": 10.6,
     "discount": 10,
     "new": true,
     "rating": 5,
     "saleCount": 190,
-    "category": ["Service B"],
+    "category": ["electronics"],
     "tag": ["electronics"],
     "stock": 25,
     "image": [
@@ -628,13 +628,13 @@
   {
     "id": "12",
     "sku": "asdf134",
-    "name": "Service Name camera",
+    "name": "Lorem ipsum camera",
     "price": 12.5,
     "discount": 20,
     "new": true,
     "rating": 3,
     "saleCount": 90,
-    "category": ["Service B"],
+    "category": ["electronics"],
     "tag": ["electronics"],
     "stock": 20,
     "image": [
@@ -650,13 +650,13 @@
   {
     "id": "13",
     "sku": "asdf135",
-    "name": "Service Name monitor",
+    "name": "Lorem ipsum monitor",
     "price": 14.5,
     "discount": 30,
     "new": false,
     "rating": 4,
     "saleCount": 100,
-    "category": ["Service B"],
+    "category": ["electronics"],
     "tag": ["electronics"],
     "stock": 40,
     "image": [
@@ -672,13 +672,13 @@
   {
     "id": "14",
     "sku": "asdf136",
-    "name": "Service Name small speaker",
+    "name": "Lorem ipsum small speaker",
     "price": 2.5,
     "discount": 10,
     "new": true,
     "rating": 5,
     "saleCount": 120,
-    "category": ["Service B"],
+    "category": ["electronics"],
     "tag": ["electronics"],
     "stock": 45,
     "image": [
@@ -694,13 +694,13 @@
   {
     "id": "15",
     "sku": "asdf137",
-    "name": "Service Name microphone",
+    "name": "Lorem ipsum microphone",
     "price": 12.5,
     "discount": 0,
     "new": false,
     "rating": 4,
     "saleCount": 20,
-    "category": ["Service B"],
+    "category": ["electronics"],
     "tag": ["electronics"],
     "stock": 5,
     "image": [
@@ -716,13 +716,13 @@
   {
     "id": "16",
     "sku": "asdf138",
-    "name": "Service Name grinder",
+    "name": "Lorem ipsum grinder",
     "price": 22.5,
     "discount": 20,
     "new": true,
     "rating": 5,
     "saleCount": 25,
-    "category": ["Service B"],
+    "category": ["electronics"],
     "tag": ["electronics"],
     "stock": 7,
     "image": [
@@ -738,13 +738,13 @@
   {
     "id": "17",
     "sku": "asdf139",
-    "name": "Service Name bluetooth",
+    "name": "Lorem ipsum bluetooth",
     "price": 32.5,
     "discount": 10,
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["Service B"],
+    "category": ["electronics"],
     "tag": ["electronics"],
     "stock": 6,
     "image": [
@@ -760,13 +760,13 @@
   {
     "id": "18",
     "sku": "asdf140",
-    "name": "Service Name chair one",
+    "name": "Lorem ipsum chair one",
     "price": 15.6,
     "discount": 0,
     "new": false,
     "rating": 4,
     "saleCount": 90,
-    "category": ["Service C"],
+    "category": ["furniture"],
     "tag": ["furniture"],
     "stock": 15,
     "image": [
@@ -782,13 +782,13 @@
   {
     "id": "19",
     "sku": "asdf141",
-    "name": "Service Name chair two",
+    "name": "Lorem ipsum chair two",
     "price": 10.6,
     "discount": 10,
     "new": true,
     "rating": 5,
     "saleCount": 190,
-    "category": ["Service C"],
+    "category": ["furniture"],
     "tag": ["furniture"],
     "stock": 25,
     "image": [
@@ -804,13 +804,13 @@
   {
     "id": "20",
     "sku": "asdf142",
-    "name": "Service Name chair three",
+    "name": "Lorem ipsum chair three",
     "price": 12.5,
     "discount": 20,
     "new": true,
     "rating": 3,
     "saleCount": 90,
-    "category": ["Service C"],
+    "category": ["furniture"],
     "tag": ["furniture"],
     "stock": 20,
     "image": [
@@ -826,13 +826,13 @@
   {
     "id": "21",
     "sku": "asdf143",
-    "name": "Service Name sofa one",
+    "name": "Lorem ipsum sofa one",
     "price": 14.5,
     "discount": 30,
     "new": false,
     "rating": 4,
     "saleCount": 100,
-    "category": ["Service C"],
+    "category": ["furniture"],
     "tag": ["furniture"],
     "stock": 40,
     "image": [
@@ -848,13 +848,13 @@
   {
     "id": "22",
     "sku": "asdf144",
-    "name": "Service Name sofa two",
+    "name": "Lorem ipsum sofa two",
     "price": 22.5,
     "discount": 10,
     "new": true,
     "rating": 5,
     "saleCount": 120,
-    "category": ["Service C"],
+    "category": ["furniture"],
     "tag": ["furniture"],
     "stock": 45,
     "image": [
@@ -870,13 +870,13 @@
   {
     "id": "23",
     "sku": "asdf145",
-    "name": "Service Name sofa three",
+    "name": "Lorem ipsum sofa three",
     "price": 12.5,
     "discount": 0,
     "new": false,
     "rating": 4,
     "saleCount": 20,
-    "category": ["Service C"],
+    "category": ["furniture"],
     "tag": ["furniture"],
     "stock": 5,
     "image": [
@@ -892,13 +892,13 @@
   {
     "id": "24",
     "sku": "asdf146",
-    "name": "Service Name sofa four",
+    "name": "Lorem ipsum sofa four",
     "price": 22.5,
     "discount": 20,
     "new": true,
     "rating": 5,
     "saleCount": 25,
-    "category": ["Service C"],
+    "category": ["furniture"],
     "tag": ["furniture"],
     "stock": 7,
     "image": [
@@ -914,13 +914,13 @@
   {
     "id": "25",
     "sku": "asdf147",
-    "name": "Service Name sofa five",
+    "name": "Lorem ipsum sofa five",
     "price": 32.5,
     "discount": 10,
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["Service C"],
+    "category": ["furniture"],
     "tag": ["furniture"],
     "stock": 6,
     "image": [
@@ -936,13 +936,13 @@
   {
     "id": "26",
     "sku": "asdf148",
-    "name": "Service Name plant one",
+    "name": "Lorem ipsum plant one",
     "price": 15.6,
     "discount": 0,
     "new": false,
     "rating": 4,
     "saleCount": 90,
-    "category": ["Service P"],
+    "category": ["plant"],
     "tag": ["plant"],
     "stock": 15,
     "image": [
@@ -958,13 +958,13 @@
   {
     "id": "27",
     "sku": "asdf149",
-    "name": "Service Name plant two",
+    "name": "Lorem ipsum plant two",
     "price": 10.6,
     "discount": 10,
     "new": true,
     "rating": 5,
     "saleCount": 190,
-    "category": ["Service P"],
+    "category": ["plant"],
     "tag": ["plant"],
     "stock": 25,
     "image": [
@@ -980,13 +980,13 @@
   {
     "id": "28",
     "sku": "asdf150",
-    "name": "Service Name plant three",
+    "name": "Lorem ipsum plant three",
     "price": 12.5,
     "discount": 20,
     "new": true,
     "rating": 3,
     "saleCount": 90,
-    "category": ["Service P"],
+    "category": ["plant"],
     "tag": ["plant"],
     "stock": 20,
     "image": [
@@ -1002,13 +1002,13 @@
   {
     "id": "29",
     "sku": "asdf151",
-    "name": "Service Name plant four",
+    "name": "Lorem ipsum plant four",
     "price": 14.5,
     "discount": 30,
     "new": false,
     "rating": 4,
     "saleCount": 100,
-    "category": ["Service P"],
+    "category": ["plant"],
     "tag": ["plant"],
     "stock": 40,
     "image": [
@@ -1024,13 +1024,13 @@
   {
     "id": "30",
     "sku": "asdf152",
-    "name": "Service Name plant five",
+    "name": "Lorem ipsum plant five",
     "price": 22.5,
     "discount": 10,
     "new": true,
     "rating": 5,
     "saleCount": 120,
-    "category": ["Service P"],
+    "category": ["plant"],
     "tag": ["plant"],
     "stock": 45,
     "image": [
@@ -1046,13 +1046,13 @@
   {
     "id": "31",
     "sku": "asdf153",
-    "name": "Service Name plant six",
+    "name": "Lorem ipsum plant six",
     "price": 12.5,
     "discount": 0,
     "new": false,
     "rating": 4,
     "saleCount": 20,
-    "category": ["Service P"],
+    "category": ["plant"],
     "tag": ["plant"],
     "stock": 5,
     "image": [
@@ -1068,13 +1068,13 @@
   {
     "id": "32",
     "sku": "asdf154",
-    "name": "Service Name plant seven",
+    "name": "Lorem ipsum plant seven",
     "price": 22.5,
     "discount": 20,
     "new": true,
     "rating": 5,
     "saleCount": 25,
-    "category": ["Service P"],
+    "category": ["plant"],
     "tag": ["plant"],
     "stock": 7,
     "image": [
@@ -1090,13 +1090,13 @@
   {
     "id": "33",
     "sku": "asdf155",
-    "name": "Service Name plant eight",
+    "name": "Lorem ipsum plant eight",
     "price": 32.5,
     "discount": 10,
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["Service P"],
+    "category": ["plant"],
     "tag": ["plant"],
     "stock": 6,
     "image": [
@@ -1112,13 +1112,13 @@
   {
     "id": "34",
     "sku": "asdf156",
-    "name": "Service Name fruit one",
+    "name": "Lorem ipsum fruit one",
     "price": 15.6,
     "discount": 0,
     "new": false,
     "rating": 4,
     "saleCount": 90,
-    "category": ["Service B"],
+    "category": ["organic food"],
     "tag": ["organic food"],
     "stock": 15,
     "image": [
@@ -1134,13 +1134,13 @@
   {
     "id": "35",
     "sku": "asdf157",
-    "name": "Service Name fruit two",
+    "name": "Lorem ipsum fruit two",
     "price": 10.6,
     "discount": 10,
     "new": true,
     "rating": 5,
     "saleCount": 190,
-    "category": ["Service B"],
+    "category": ["organic food"],
     "tag": ["organic food"],
     "stock": 25,
     "image": [
@@ -1156,13 +1156,13 @@
   {
     "id": "36",
     "sku": "asdf158",
-    "name": "Service Name fruit three",
+    "name": "Lorem ipsum fruit three",
     "price": 12.5,
     "discount": 20,
     "new": true,
     "rating": 3,
     "saleCount": 90,
-    "category": ["Service B"],
+    "category": ["organic food"],
     "tag": ["organic food"],
     "stock": 20,
     "image": [
@@ -1178,13 +1178,13 @@
   {
     "id": "37",
     "sku": "asdf159",
-    "name": "Service Name fruit four",
+    "name": "Lorem ipsum fruit four",
     "price": 14.5,
     "discount": 30,
     "new": false,
     "rating": 4,
     "saleCount": 100,
-    "category": ["Service B"],
+    "category": ["organic food"],
     "tag": ["organic food"],
     "stock": 40,
     "image": [
@@ -1200,13 +1200,13 @@
   {
     "id": "38",
     "sku": "asdf160",
-    "name": "Service Name fruit five",
+    "name": "Lorem ipsum fruit five",
     "price": 22.5,
     "discount": 10,
     "new": true,
     "rating": 5,
     "saleCount": 120,
-    "category": ["Service B"],
+    "category": ["organic food"],
     "tag": ["organic food"],
     "stock": 45,
     "image": [
@@ -1222,13 +1222,13 @@
   {
     "id": "39",
     "sku": "asdf161",
-    "name": "Service Name fruit six",
+    "name": "Lorem ipsum fruit six",
     "price": 12.5,
     "discount": 0,
     "new": false,
     "rating": 4,
     "saleCount": 20,
-    "category": ["Service B"],
+    "category": ["organic food"],
     "tag": ["organic food"],
     "stock": 5,
     "image": [
@@ -1244,13 +1244,13 @@
   {
     "id": "40",
     "sku": "asdf162",
-    "name": "Service Name fruit seven",
+    "name": "Lorem ipsum fruit seven",
     "price": 22.5,
     "discount": 20,
     "new": true,
     "rating": 5,
     "saleCount": 25,
-    "category": ["Service B"],
+    "category": ["organic food"],
     "tag": ["organic food"],
     "stock": 7,
     "image": [
@@ -1266,13 +1266,13 @@
   {
     "id": "41",
     "sku": "asdf163",
-    "name": "Service Name fruit eight",
+    "name": "Lorem ipsum fruit eight",
     "price": 32.5,
     "discount": 10,
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["Service B"],
+    "category": ["organic food"],
     "tag": ["organic food"],
     "stock": 6,
     "image": [
@@ -1288,13 +1288,13 @@
   {
     "id": "42",
     "sku": "asdf164",
-    "name": "Service Name lamp",
+    "name": "Lorem ipsum lamp",
     "price": 12.5,
     "discount": 20,
     "new": true,
     "rating": 4,
     "saleCount": 15,
-    "category": ["Service B"],
+    "category": ["electronics"],
     "tag": ["electronics"],
     "stock": 7,
     "image": [
@@ -1310,13 +1310,13 @@
   {
     "id": "43",
     "sku": "asdf165",
-    "name": "Service Name headphone",
+    "name": "Lorem ipsum headphone",
     "price": 16.5,
     "discount": 10,
     "new": false,
     "rating": 5,
     "saleCount": 5,
-    "category": ["Service B"],
+    "category": ["electronics"],
     "tag": ["electronics"],
     "stock": 6,
     "image": [
@@ -1332,13 +1332,13 @@
   {
     "id": "44",
     "sku": "asdf166",
-    "name": "Service Name flower one",
+    "name": "Lorem ipsum flower one",
     "price": 1.5,
     "discount": 20,
     "new": true,
     "rating": 4,
     "saleCount": 10,
-    "category": ["Service F"],
+    "category": ["flower"],
     "tag": ["flower"],
     "stock": 6,
     "image": [
@@ -1354,13 +1354,13 @@
   {
     "id": "45",
     "sku": "asdf167",
-    "name": "Service Name flower two",
+    "name": "Lorem ipsum flower two",
     "price": 6.5,
     "discount": 30,
     "new": false,
     "rating": 5,
     "saleCount": 5,
-    "category": ["Service F"],
+    "category": ["flower"],
     "tag": ["flower"],
     "stock": 7,
     "image": [
@@ -1376,13 +1376,13 @@
   {
     "id": "46",
     "sku": "asdf168",
-    "name": "Service Name flower three",
+    "name": "Lorem ipsum flower three",
     "price": 3.5,
     "discount": 5,
     "new": true,
     "rating": 4,
     "saleCount": 7,
-    "category": ["Service F"],
+    "category": ["flower"],
     "tag": ["flower"],
     "stock": 10,
     "image": [
@@ -1398,13 +1398,13 @@
   {
     "id": "47",
     "sku": "asdf169",
-    "name": "Service Name flower four",
+    "name": "Lorem ipsum flower four",
     "price": 4.5,
     "discount": 20,
     "new": true,
     "rating": 5,
     "saleCount": 10,
-    "category": ["Service F"],
+    "category": ["flower"],
     "tag": ["flower"],
     "stock": 6,
     "image": [
@@ -1420,13 +1420,13 @@
   {
     "id": "48",
     "sku": "asdf170",
-    "name": "Service Name flower five",
+    "name": "Lorem ipsum flower five",
     "price": 7.5,
     "discount": 30,
     "new": true,
     "rating": 3,
     "saleCount": 4,
-    "category": ["Service F"],
+    "category": ["flower"],
     "tag": ["flower"],
     "stock": 7,
     "image": [
@@ -1442,13 +1442,13 @@
   {
     "id": "49",
     "sku": "asdf171",
-    "name": "Service Name flower six",
+    "name": "Lorem ipsum flower six",
     "price": 4.5,
     "discount": 10,
     "new": false,
     "rating": 5,
     "saleCount": 2,
-    "category": ["Service F"],
+    "category": ["flower"],
     "tag": ["flower"],
     "stock": 10,
     "image": [
@@ -1464,13 +1464,13 @@
   {
     "id": "50",
     "sku": "asdf172",
-    "name": "Service Name flower seven",
+    "name": "Lorem ipsum flower seven",
     "price": 3.5,
     "discount": 20,
     "new": true,
     "rating": 5,
     "saleCount": 5,
-    "category": ["Service F"],
+    "category": ["flower"],
     "tag": ["flower"],
     "stock": 6,
     "image": [
@@ -1486,13 +1486,13 @@
   {
     "id": "51",
     "sku": "asdf173",
-    "name": "Service Name flower eight",
+    "name": "Lorem ipsum flower eight",
     "price": 2.5,
     "discount": 30,
     "new": true,
     "rating": 5,
     "saleCount": 9,
-    "category": ["Service F"],
+    "category": ["flower"],
     "tag": ["flower"],
     "stock": 10,
     "image": [
@@ -1508,13 +1508,13 @@
   {
     "id": "52",
     "sku": "asdf174",
-    "name": "Service Name book one",
+    "name": "Lorem ipsum book one",
     "price": 6.5,
     "discount": 30,
     "new": true,
     "rating": 5,
     "saleCount": 10,
-    "category": ["Service B"],
+    "category": ["book"],
     "tag": ["book"],
     "stock": 20,
     "image": [
@@ -1530,13 +1530,13 @@
   {
     "id": "53",
     "sku": "asdf175",
-    "name": "Service Name book two",
+    "name": "Lorem ipsum book two",
     "price": 4.2,
     "discount": 0,
     "new": true,
     "rating": 5,
     "saleCount": 10,
-    "category": ["Service B"],
+    "category": ["book"],
     "tag": ["book"],
     "stock": 20,
     "image": [
@@ -1552,13 +1552,13 @@
   {
     "id": "54",
     "sku": "asdf176",
-    "name": "Service Name book three",
+    "name": "Lorem ipsum book three",
     "price": 6.6,
     "discount": 20,
     "new": true,
     "rating": 3,
     "saleCount": 11,
-    "category": ["Service B"],
+    "category": ["book"],
     "tag": ["book"],
     "stock": 20,
     "image": [
@@ -1574,13 +1574,13 @@
   {
     "id": "55",
     "sku": "asdf177",
-    "name": "Service Name book four",
+    "name": "Lorem ipsum book four",
     "price": 7.1,
     "discount": 40,
     "new": true,
     "rating": 4,
     "saleCount": 19,
-    "category": ["Service B"],
+    "category": ["book"],
     "tag": ["book"],
     "stock": 40,
     "image": [
@@ -1596,13 +1596,13 @@
   {
     "id": "56",
     "sku": "asdf178",
-    "name": "Service Name book five",
+    "name": "Lorem ipsum book five",
     "price": 8.6,
     "discount": 30,
     "new": false,
     "rating": 4,
     "saleCount": 12,
-    "category": ["Service B"],
+    "category": ["book"],
     "tag": ["book"],
     "stock": 8,
     "image": [
@@ -1618,13 +1618,13 @@
   {
     "id": "57",
     "sku": "asdf179",
-    "name": "Service Name book six",
+    "name": "Lorem ipsum book six",
     "price": 5.5,
     "discount": 10,
     "new": true,
     "rating": 4,
     "saleCount": 19,
-    "category": ["Service B"],
+    "category": ["book"],
     "tag": ["book"],
     "stock": 20,
     "image": [
@@ -1640,13 +1640,13 @@
   {
     "id": "58",
     "sku": "asdf180",
-    "name": "Service Name book seven",
+    "name": "Lorem ipsum book seven",
     "price": 3.2,
     "discount": 20,
     "new": false,
     "rating": 2,
     "saleCount": 9,
-    "category": ["Service B"],
+    "category": ["book"],
     "tag": ["book"],
     "stock": 11,
     "image": [
@@ -1662,13 +1662,13 @@
   {
     "id": "59",
     "sku": "asdf181",
-    "name": "Service Name book eight",
+    "name": "Lorem ipsum book eight",
     "price": 8.5,
     "discount": 5,
     "new": true,
     "rating": 3,
     "saleCount": 19,
-    "category": ["Service B"],
+    "category": ["book"],
     "tag": ["book"],
     "stock": 30,
     "image": [
@@ -1684,13 +1684,13 @@
   {
     "id": "60",
     "sku": "asdf182",
-    "name": "Service Name cosmetics one",
+    "name": "Lorem ipsum cosmetics one",
     "price": 3.5,
     "discount": 10,
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["Service C"],
+    "category": ["cosmetics"],
     "tag": ["cosmetics"],
     "stock": 20,
     "image": [
@@ -1706,13 +1706,13 @@
   {
     "id": "61",
     "sku": "asdf183",
-    "name": "Service Name cosmetics two",
+    "name": "Lorem ipsum cosmetics two",
     "price": 18.5,
     "discount": 15,
     "new": false,
     "rating": 5,
     "saleCount": 9,
-    "category": ["Service C"],
+    "category": ["cosmetics"],
     "tag": ["cosmetics"],
     "stock": 20,
     "image": [
@@ -1728,13 +1728,13 @@
   {
     "id": "62",
     "sku": "asdf184",
-    "name": "Service Name cosmetics three",
+    "name": "Lorem ipsum cosmetics three",
     "price": 4.2,
     "discount": 15,
     "new": true,
     "rating": 5,
     "saleCount": 29,
-    "category": ["Service C"],
+    "category": ["cosmetics"],
     "tag": ["cosmetics"],
     "stock": 20,
     "image": [
@@ -1750,13 +1750,13 @@
   {
     "id": "63",
     "sku": "asdf185",
-    "name": "Service Name cosmetics four",
+    "name": "Lorem ipsum cosmetics four",
     "price": 1.5,
     "discount": 0,
     "new": false,
     "rating": 4,
     "saleCount": 20,
-    "category": ["Service C"],
+    "category": ["cosmetics"],
     "tag": ["cosmetics"],
     "stock": 10,
     "image": [
@@ -1772,13 +1772,13 @@
   {
     "id": "64",
     "sku": "asdf186",
-    "name": "Service Name cosmetics five",
+    "name": "Lorem ipsum cosmetics five",
     "price": 6.3,
     "discount": 15,
     "new": true,
     "rating": 5,
     "saleCount": 20,
-    "category": ["Service C"],
+    "category": ["cosmetics"],
     "tag": ["cosmetics"],
     "stock": 20,
     "image": [
@@ -1794,13 +1794,13 @@
   {
     "id": "65",
     "sku": "asdf187",
-    "name": "Service Name cosmetics six",
+    "name": "Lorem ipsum cosmetics six",
     "price": 4.5,
     "discount": 20,
     "new": false,
     "rating": 2,
     "saleCount": 29,
-    "category": ["Service C"],
+    "category": ["cosmetics"],
     "tag": ["cosmetics"],
     "stock": 20,
     "image": [
@@ -1816,13 +1816,13 @@
   {
     "id": "66",
     "sku": "asdf188",
-    "name": "Service Name cosmetics seven",
+    "name": "Lorem ipsum cosmetics seven",
     "price": 7.1,
     "discount": 45,
     "new": true,
     "rating": 4,
     "saleCount": 10,
-    "category": ["Service C"],
+    "category": ["cosmetics"],
     "tag": ["cosmetics"],
     "stock": 20,
     "image": [
@@ -1838,13 +1838,13 @@
   {
     "id": "67",
     "sku": "asdf189",
-    "name": "Service Name cosmetics eight",
+    "name": "Lorem ipsum cosmetics eight",
     "price": 9.0,
     "discount": 10,
     "new": false,
     "rating": 4,
     "saleCount": 29,
-    "category": ["Service C"],
+    "category": ["cosmetics"],
     "tag": ["cosmetics"],
     "stock": 20,
     "image": [
@@ -1860,13 +1860,13 @@
   {
     "id": "68",
     "sku": "asdf190",
-    "name": "Service Name accessories one",
+    "name": "Lorem ipsum accessories one",
     "price": 3.1,
     "discount": 10,
     "new": true,
     "rating": 4,
     "saleCount": 29,
-    "category": ["Service D"],
+    "category": ["accessories"],
     "tag": ["accessories"],
     "stock": 20,
     "image": [
@@ -1882,13 +1882,13 @@
   {
     "id": "69",
     "sku": "asdf191",
-    "name": "Service Name accessories two",
+    "name": "Lorem ipsum accessories two",
     "price": 12.43,
     "discount": 20,
     "new": false,
     "rating": 5,
     "saleCount": 19,
-    "category": ["Service D"],
+    "category": ["accessories"],
     "tag": ["accessories"],
     "stock": 30,
     "image": [
@@ -1904,13 +1904,13 @@
   {
     "id": "70",
     "sku": "asdf192",
-    "name": "Service Name accessories three",
+    "name": "Lorem ipsum accessories three",
     "price": 12.5,
     "discount": 0,
     "new": true,
     "rating": 5,
     "saleCount": 30,
-    "category": ["Service D"],
+    "category": ["accessories"],
     "tag": ["accessories"],
     "stock": 10,
     "image": [
@@ -1926,13 +1926,13 @@
   {
     "id": "71",
     "sku": "asdf193",
-    "name": "Service Name accessories four",
+    "name": "Lorem ipsum accessories four",
     "price": 19.33,
     "discount": 20,
     "new": false,
     "rating": 5,
     "saleCount": 20,
-    "category": ["Service D"],
+    "category": ["accessories"],
     "tag": ["accessories"],
     "stock": 30,
     "image": [
@@ -1948,13 +1948,13 @@
   {
     "id": "72",
     "sku": "asdf194",
-    "name": "Service Name accessories five",
+    "name": "Lorem ipsum accessories five",
     "price": 12.35,
     "discount": 20,
     "new": true,
     "rating": 5,
     "saleCount": 20,
-    "category": ["Service D"],
+    "category": ["accessories"],
     "tag": ["accessories"],
     "stock": 10,
     "image": [
@@ -1970,13 +1970,13 @@
   {
     "id": "73",
     "sku": "asdf195",
-    "name": "Service Name accessories six",
+    "name": "Lorem ipsum accessories six",
     "price": 12.45,
     "discount": 20,
     "new": true,
     "rating": 5,
     "saleCount": 19,
-    "category": ["Service D"],
+    "category": ["accessories"],
     "tag": ["accessories"],
     "stock": 30,
     "image": [
@@ -1992,13 +1992,13 @@
   {
     "id": "74",
     "sku": "asdf196",
-    "name": "Service Name accessories seven",
+    "name": "Lorem ipsum accessories seven",
     "price": 2.43,
     "discount": 10,
     "new": true,
     "rating": 5,
     "saleCount": 15,
-    "category": ["Service D"],
+    "category": ["accessories"],
     "tag": ["accessories"],
     "stock": 10,
     "image": [
@@ -2014,13 +2014,13 @@
   {
     "id": "75",
     "sku": "asdf197",
-    "name": "Service Name accessories eight",
+    "name": "Lorem ipsum accessories eight",
     "price": 13.4,
     "discount": 30,
     "new": true,
     "rating": 5,
     "saleCount": 2,
-    "category": ["Service D"],
+    "category": ["accessories"],
     "tag": ["accessories"],
     "stock": 10,
     "image": [
@@ -2036,13 +2036,13 @@
   {
     "id": "76",
     "sku": "asdf198",
-    "name": "Service Name accessories nine",
+    "name": "Lorem ipsum accessories nine",
     "price": 5.24,
     "discount": 30,
     "new": true,
     "rating": 5,
     "saleCount": 34,
-    "category": ["Service D"],
+    "category": ["accessories"],
     "tag": ["accessories"],
     "stock": 10,
     "image": [
@@ -2058,13 +2058,13 @@
   {
     "id": "77",
     "sku": "asdf199",
-    "name": "Service Name accessories ten",
+    "name": "Lorem ipsum accessories ten",
     "price": 2.2,
     "discount": 0,
     "new": true,
     "rating": 5,
     "saleCount": 19,
-    "category": ["Service D"],
+    "category": ["accessories"],
     "tag": ["accessories"],
     "stock": 30,
     "image": [
@@ -2080,13 +2080,13 @@
   {
     "id": "78",
     "sku": "asdf200",
-    "name": "Service Name accessories eleven",
+    "name": "Lorem ipsum accessories eleven",
     "price": 12.65,
     "discount": 20,
     "new": true,
     "rating": 4,
     "saleCount": 20,
-    "category": ["Service D"],
+    "category": ["accessories"],
     "tag": ["accessories"],
     "stock": 23,
     "image": [
@@ -2102,13 +2102,13 @@
   {
     "id": "79",
     "sku": "asdf201",
-    "name": "Service Name accessories twelve",
+    "name": "Lorem ipsum accessories twelve",
     "price": 9.52,
     "discount": 0,
     "new": true,
     "rating": 5,
     "saleCount": 19,
-    "category": ["Service D"],
+    "category": ["accessories"],
     "tag": ["accessories"],
     "stock": 10,
     "image": [
@@ -2124,7 +2124,7 @@
   {
     "id": "80",
     "sku": "asdf202",
-    "name": "Service Name handmade one",
+    "name": "Lorem ipsum handmade one",
     "price": 19,
     "discount": 10,
     "new": true,
@@ -2146,7 +2146,7 @@
   {
     "id": "81",
     "sku": "asdf203",
-    "name": "Service Name handmade two",
+    "name": "Lorem ipsum handmade two",
     "price": 12,
     "discount": 50,
     "new": false,
@@ -2168,7 +2168,7 @@
   {
     "id": "82",
     "sku": "asdf204",
-    "name": "Service Name handmade three",
+    "name": "Lorem ipsum handmade three",
     "price": 5.52,
     "discount": 10,
     "new": true,
@@ -2190,7 +2190,7 @@
   {
     "id": "83",
     "sku": "asdf205",
-    "name": "Service Name handmade four",
+    "name": "Lorem ipsum handmade four",
     "price": 2.13,
     "discount": 0,
     "new": true,
@@ -2212,7 +2212,7 @@
   {
     "id": "84",
     "sku": "asdf206",
-    "name": "Service Name handmade five",
+    "name": "Lorem ipsum handmade five",
     "price": 12.9,
     "discount": 40,
     "new": false,
@@ -2234,7 +2234,7 @@
   {
     "id": "85",
     "sku": "asdf207",
-    "name": "Service Name handmade six",
+    "name": "Lorem ipsum handmade six",
     "price": 3.78,
     "discount": 20,
     "new": true,
@@ -2256,7 +2256,7 @@
   {
     "id": "86",
     "sku": "asdf208",
-    "name": "Service Name handmade seven",
+    "name": "Lorem ipsum handmade seven",
     "price": 2.52,
     "discount": 10,
     "new": true,
@@ -2278,7 +2278,7 @@
   {
     "id": "87",
     "sku": "asdf209",
-    "name": "Service Name handmade eight",
+    "name": "Lorem ipsum handmade eight",
     "price": 6.4,
     "discount": 0,
     "new": true,
@@ -2300,14 +2300,14 @@
   {
     "id": "88",
     "sku": "asdf210",
-    "name": "Service Name kids one",
+    "name": "Lorem ipsum kids one",
     "price": 12.45,
     "discount": 10,
     "offerEnd": "October 5, 2024 12:11:00",
     "new": false,
     "rating": 4,
     "saleCount": 54,
-    "category": ["Service A", "kids"],
+    "category": ["fashion", "kids"],
     "tag": ["fashion", "kids"],
     "variation": [
       {
@@ -2386,13 +2386,13 @@
   {
     "id": "89",
     "sku": "asdf211",
-    "name": "Service Name kids two",
+    "name": "Lorem ipsum kids two",
     "price": 18.5,
     "discount": 15,
     "new": false,
     "rating": 3,
     "saleCount": 12,
-    "category": ["Service A", "kids"],
+    "category": ["fashion", "kids"],
     "tag": ["fashion", "kids"],
     "variation": [
       {
@@ -2472,14 +2472,14 @@
   {
     "id": "90",
     "sku": "asdf212",
-    "name": "Service Name kids three",
+    "name": "Lorem ipsum kids three",
     "price": 17.45,
     "discount": 40,
     "offerEnd": "October 2, 2024 12:11:00",
     "new": true,
     "rating": 5,
     "saleCount": 36,
-    "category": ["Service A", "kids"],
+    "category": ["fashion", "kids"],
     "tag": ["fashion", "kids"],
     "variation": [
       {
@@ -2558,13 +2558,13 @@
   {
     "id": "91",
     "sku": "asdf213",
-    "name": "Service Name kids four",
+    "name": "Lorem ipsum kids four",
     "price": 15.5,
     "discount": 0,
     "new": true,
     "rating": 4,
     "saleCount": 20,
-    "category": ["Service A", "kids"],
+    "category": ["fashion", "kids"],
     "tag": ["fashion", "kids"],
     "variation": [
       {
@@ -2643,13 +2643,13 @@
   {
     "id": "92",
     "sku": "asdf214",
-    "name": "Service Name kids five",
+    "name": "Lorem ipsum kids five",
     "price": 25.5,
     "discount": 10,
     "new": true,
     "rating": 5,
     "saleCount": 25,
-    "category": ["Service A", "kids"],
+    "category": ["fashion", "kids"],
     "tag": ["fashion", "kids"],
     "variation": [
       {
@@ -2728,14 +2728,14 @@
   {
     "id": "93",
     "sku": "asdf215",
-    "name": "Service Name kids six",
+    "name": "Lorem ipsum kids six",
     "price": 19.85,
     "discount": 0,
     "offerEnd": "October 17, 2024 12:11:00",
     "new": true,
     "rating": 5,
     "saleCount": 65,
-    "category": ["Service A", "kids"],
+    "category": ["fashion", "kids"],
     "tag": ["fashion", "kids"],
     "variation": [
       {
@@ -2814,13 +2814,13 @@
   {
     "id": "94",
     "sku": "asdf216",
-    "name": "Service Name kids seven",
+    "name": "Lorem ipsum kids seven",
     "price": 55.5,
     "discount": 40,
     "new": true,
     "rating": 5,
     "saleCount": 55,
-    "category": ["Service A", "kids"],
+    "category": ["fashion", "kids"],
     "tag": ["fashion", "kids"],
     "variation": [
       {
@@ -2899,14 +2899,14 @@
   {
     "id": "95",
     "sku": "asdf217",
-    "name": "Service Name kids eight",
+    "name": "Lorem ipsum kids eight",
     "price": 29.85,
     "discount": 10,
     "offerEnd": "October 18, 2024 12:11:00",
     "new": false,
     "rating": 5,
     "saleCount": 83,
-    "category": ["Service A", "kids"],
+    "category": ["fashion", "kids"],
     "tag": ["fashion", "kids"],
     "stock": 0,
     "image": [
@@ -2922,7 +2922,7 @@
   {
     "id": "96",
     "sku": "asdf218",
-    "name": "Service Name auto part one",
+    "name": "Lorem ipsum auto part one",
     "price": 16.4,
     "discount": 10,
     "new": true,
@@ -2944,7 +2944,7 @@
   {
     "id": "97",
     "sku": "asdf219",
-    "name": "Service Name auto part two",
+    "name": "Lorem ipsum auto part two",
     "price": 26.5,
     "discount": 0,
     "new": false,
@@ -2966,7 +2966,7 @@
   {
     "id": "98",
     "sku": "asdf220",
-    "name": "Service Name auto part three",
+    "name": "Lorem ipsum auto part three",
     "price": 14.2,
     "discount": 30,
     "new": true,
@@ -2988,7 +2988,7 @@
   {
     "id": "99",
     "sku": "asdf221",
-    "name": "Service Name auto part four",
+    "name": "Lorem ipsum auto part four",
     "price": 6.4,
     "discount": 0,
     "new": false,
@@ -3010,7 +3010,7 @@
   {
     "id": "100",
     "sku": "asdf222",
-    "name": "Service Name cake one",
+    "name": "Lorem ipsum cake one",
     "price": 6.4,
     "discount": 0,
     "new": false,
@@ -3032,7 +3032,7 @@
   {
     "id": "101",
     "sku": "asdf223",
-    "name": "Service Name cake two",
+    "name": "Lorem ipsum cake two",
     "price": 3,
     "discount": 10,
     "new": true,
@@ -3054,7 +3054,7 @@
   {
     "id": "102",
     "sku": "asdf224",
-    "name": "Service Name cake three",
+    "name": "Lorem ipsum cake three",
     "price": 2.4,
     "discount": 10,
     "new": false,
@@ -3076,7 +3076,7 @@
   {
     "id": "103",
     "sku": "asdf225",
-    "name": "Service Name cake four",
+    "name": "Lorem ipsum cake four",
     "price": 3.5,
     "discount": 10,
     "new": true,
@@ -3098,7 +3098,7 @@
   {
     "id": "104",
     "sku": "asdf226",
-    "name": "Service Name cake five",
+    "name": "Lorem ipsum cake five",
     "price": 4.2,
     "discount": 0,
     "new": false,
@@ -3120,7 +3120,7 @@
   {
     "id": "105",
     "sku": "asdf227",
-    "name": "Service Name cake six",
+    "name": "Lorem ipsum cake six",
     "price": 5.7,
     "discount": 30,
     "new": true,
@@ -3142,7 +3142,7 @@
   {
     "id": "106",
     "sku": "asdf228",
-    "name": "Service Name cake seven",
+    "name": "Lorem ipsum cake seven",
     "price": 6.5,
     "discount": 10,
     "new": true,
@@ -3164,7 +3164,7 @@
   {
     "id": "107",
     "sku": "asdf229",
-    "name": "Service Name cake eight",
+    "name": "Lorem ipsum cake eight",
     "price": 4.5,
     "discount": 10,
     "new": true,
@@ -3186,7 +3186,7 @@
   {
     "id": "108",
     "sku": "asdf222",
-    "name": "Service Name cake one",
+    "name": "Lorem ipsum cake one",
     "price": 6.4,
     "discount": 0,
     "new": false,
@@ -3208,7 +3208,7 @@
   {
     "id": "109",
     "sku": "asdf223",
-    "name": "Service Name cake two",
+    "name": "Lorem ipsum cake two",
     "price": 3,
     "discount": 10,
     "new": true,
@@ -3230,7 +3230,7 @@
   {
     "id": "110",
     "sku": "asdf224",
-    "name": "Service Name cake three",
+    "name": "Lorem ipsum cake three",
     "price": 2.4,
     "discount": 10,
     "new": false,
@@ -3252,7 +3252,7 @@
   {
     "id": "111",
     "sku": "asdf225",
-    "name": "Service Name cake four",
+    "name": "Lorem ipsum cake four",
     "price": 3.5,
     "discount": 10,
     "new": true,
@@ -3274,7 +3274,7 @@
   {
     "id": "112",
     "sku": "asdf226",
-    "name": "Service Name cake five",
+    "name": "Lorem ipsum cake five",
     "price": 4.2,
     "discount": 0,
     "new": false,
@@ -3296,7 +3296,7 @@
   {
     "id": "113",
     "sku": "asdf227",
-    "name": "Service Name cake six",
+    "name": "Lorem ipsum cake six",
     "price": 5.7,
     "discount": 30,
     "new": true,
@@ -3318,7 +3318,7 @@
   {
     "id": "114",
     "sku": "asdf228",
-    "name": "Service Name cake seven",
+    "name": "Lorem ipsum cake seven",
     "price": 6.5,
     "discount": 10,
     "new": true,
@@ -3340,7 +3340,7 @@
   {
     "id": "115",
     "sku": "asdf229",
-    "name": "Service Name cake eight",
+    "name": "Lorem ipsum cake eight",
     "price": 4.5,
     "discount": 10,
     "new": true,
@@ -3362,7 +3362,7 @@
   {
     "id": "116",
     "sku": "asdf230",
-    "name": "Service Name pet food one",
+    "name": "Lorem ipsum pet food one",
     "price": 6.4,
     "discount": 0,
     "new": false,
@@ -3384,7 +3384,7 @@
   {
     "id": "117",
     "sku": "asdf231",
-    "name": "Service Name pet food two",
+    "name": "Lorem ipsum pet food two",
     "price": 3,
     "discount": 10,
     "new": true,
@@ -3406,7 +3406,7 @@
   {
     "id": "118",
     "sku": "asdf232",
-    "name": "Service Name pet food three",
+    "name": "Lorem ipsum pet food three",
     "price": 2.4,
     "discount": 10,
     "new": false,
@@ -3428,7 +3428,7 @@
   {
     "id": "119",
     "sku": "asdf233",
-    "name": "Service Name pet food four",
+    "name": "Lorem ipsum pet food four",
     "price": 3.5,
     "discount": 10,
     "new": true,
@@ -3450,7 +3450,7 @@
   {
     "id": "120",
     "sku": "asdf234",
-    "name": "Service Name pet food five",
+    "name": "Lorem ipsum pet food five",
     "price": 4.2,
     "discount": 0,
     "new": false,
@@ -3472,7 +3472,7 @@
   {
     "id": "121",
     "sku": "asdf235",
-    "name": "Service Name pet food six",
+    "name": "Lorem ipsum pet food six",
     "price": 5.7,
     "discount": 30,
     "new": true,
@@ -3494,7 +3494,7 @@
   {
     "id": "122",
     "sku": "asdf236",
-    "name": "Service Name pet food seven",
+    "name": "Lorem ipsum pet food seven",
     "price": 6.5,
     "discount": 10,
     "new": true,
@@ -3516,7 +3516,7 @@
   {
     "id": "123",
     "sku": "asdf237",
-    "name": "Service Name pet food eight",
+    "name": "Lorem ipsum pet food eight",
     "price": 4.5,
     "discount": 10,
     "new": true,
@@ -3538,7 +3538,7 @@
   {
     "id": "124",
     "sku": "asdf238",
-    "name": "Service Name medical one",
+    "name": "Lorem ipsum medical one",
     "price": 6.4,
     "discount": 0,
     "new": false,
@@ -3560,7 +3560,7 @@
   {
     "id": "125",
     "sku": "asdf239",
-    "name": "Service Name medical two",
+    "name": "Lorem ipsum medical two",
     "price": 3,
     "discount": 10,
     "new": true,
@@ -3582,7 +3582,7 @@
   {
     "id": "126",
     "sku": "asdf240",
-    "name": "Service Name medical three",
+    "name": "Lorem ipsum medical three",
     "price": 2.4,
     "discount": 10,
     "new": false,
@@ -3604,7 +3604,7 @@
   {
     "id": "127",
     "sku": "asdf241",
-    "name": "Service Name medical four",
+    "name": "Lorem ipsum medical four",
     "price": 3.5,
     "discount": 10,
     "new": true,
@@ -3626,7 +3626,7 @@
   {
     "id": "128",
     "sku": "asdf242",
-    "name": "Service Name medical five",
+    "name": "Lorem ipsum medical five",
     "price": 4.2,
     "discount": 0,
     "new": false,
@@ -3648,7 +3648,7 @@
   {
     "id": "129",
     "sku": "asdf243",
-    "name": "Service Name medical six",
+    "name": "Lorem ipsum medical six",
     "price": 5.7,
     "discount": 30,
     "new": true,
@@ -3670,7 +3670,7 @@
   {
     "id": "130",
     "sku": "asdf244",
-    "name": "Service Name medical seven",
+    "name": "Lorem ipsum medical seven",
     "price": 6.5,
     "discount": 10,
     "new": true,
@@ -3692,7 +3692,7 @@
   {
     "id": "131",
     "sku": "asdf245",
-    "name": "Service Name medical eight",
+    "name": "Lorem ipsum medical eight",
     "price": 4.5,
     "discount": 10,
     "new": true,
@@ -3714,7 +3714,7 @@
   {
     "id": "132",
     "sku": "asdf246",
-    "name": "Service Name black one",
+    "name": "Lorem ipsum black one",
     "price": 6.4,
     "discount": 0,
     "new": false,
@@ -3736,7 +3736,7 @@
   {
     "id": "133",
     "sku": "asdf247",
-    "name": "Service Name black two",
+    "name": "Lorem ipsum black two",
     "price": 3,
     "discount": 10,
     "new": true,
@@ -3758,7 +3758,7 @@
   {
     "id": "134",
     "sku": "asdf248",
-    "name": "Service Name black three",
+    "name": "Lorem ipsum black three",
     "price": 2.4,
     "discount": 10,
     "new": false,
@@ -3780,7 +3780,7 @@
   {
     "id": "135",
     "sku": "asdf249",
-    "name": "Service Name black four",
+    "name": "Lorem ipsum black four",
     "price": 3.5,
     "discount": 10,
     "new": true,
@@ -3802,7 +3802,7 @@
   {
     "id": "136",
     "sku": "asdf250",
-    "name": "Service Name black five",
+    "name": "Lorem ipsum black five",
     "price": 4.2,
     "discount": 0,
     "new": false,
@@ -3824,7 +3824,7 @@
   {
     "id": "137",
     "sku": "asdf251",
-    "name": "Service Name black six",
+    "name": "Lorem ipsum black six",
     "price": 5.7,
     "discount": 30,
     "new": true,
@@ -3846,7 +3846,7 @@
   {
     "id": "138",
     "sku": "asdf252",
-    "name": "Service Name black seven",
+    "name": "Lorem ipsum black seven",
     "price": 6.5,
     "discount": 10,
     "new": true,
@@ -3868,7 +3868,7 @@
   {
     "id": "139",
     "sku": "asdf253",
-    "name": "Service Name black eight",
+    "name": "Lorem ipsum black eight",
     "price": 4.5,
     "discount": 10,
     "new": true,
@@ -3890,13 +3890,13 @@
   {
     "id": "140",
     "sku": "asdf249",
-    "name": "Service Name christmas one",
+    "name": "Lorem ipsum christmas one",
     "price": 3.5,
     "discount": 10,
     "new": true,
     "rating": 4,
     "saleCount": 14,
-    "category": ["Service C-1"],
+    "category": ["christmas"],
     "tag": ["christmas"],
     "stock": 10,
     "image": [
@@ -3912,13 +3912,13 @@
   {
     "id": "141",
     "sku": "asdf250",
-    "name": "Service Name christmas two",
+    "name": "Lorem ipsum christmas two",
     "price": 4.2,
     "discount": 0,
     "new": false,
     "rating": 5,
     "saleCount": 30,
-    "category": ["Service C-1"],
+    "category": ["christmas"],
     "tag": ["christmas"],
     "stock": 40,
     "image": [
@@ -3934,13 +3934,13 @@
   {
     "id": "142",
     "sku": "asdf251",
-    "name": "Service Name christmas three",
+    "name": "Lorem ipsum christmas three",
     "price": 5.7,
     "discount": 30,
     "new": true,
     "rating": 3,
     "saleCount": 30,
-    "category": ["Service C-1"],
+    "category": ["christmas"],
     "tag": ["christmas"],
     "stock": 25,
     "image": [
@@ -3956,13 +3956,13 @@
   {
     "id": "143",
     "sku": "asdf252",
-    "name": "Service Name christmas four",
+    "name": "Lorem ipsum christmas four",
     "price": 6.5,
     "discount": 10,
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["Service C-1"],
+    "category": ["christmas"],
     "tag": ["christmas"],
     "stock": 40,
     "image": [
@@ -3978,13 +3978,13 @@
   {
     "id": "144",
     "sku": "asdf253",
-    "name": "Service Name christmas five",
+    "name": "Lorem ipsum christmas five",
     "price": 4.5,
     "discount": 10,
     "new": true,
     "rating": 3,
     "saleCount": 20,
-    "category": ["Service C-1"],
+    "category": ["christmas"],
     "tag": ["christmas"],
     "stock": 60,
     "image": [
