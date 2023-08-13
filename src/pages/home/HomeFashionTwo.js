@@ -22,7 +22,7 @@ const HomeFashionTwo = () => {
         {/* banner */}
         {/* <BannerOne spaceTopClass="pt-60" spaceBottomClass="pb-65" /> */}
         {/* tab product */}
-        <TabProductFive spaceBottomClass="pb-60" category="accessories" />
+        <TabProductFive spaceBottomClass="pb-60" category="Service D" />
         {/* blog featured */}
         {/* <BlogFeatured spaceBottomClass="pb-55" /> */}
       </LayoutOne>
