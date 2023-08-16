@@ -176,14 +176,14 @@
     h3 {
       -webkit-animation-name: fadeInUp;
               animation-name: fadeInUp;
-      -webkit-animation-delay: 1.0s;
-              animation-delay: 1.0s;
+      -webkit-animation-delay: 1.3s;
+              animation-delay: 1.3s;
     }
     h1 {
       -webkit-animation-name: fadeInUp;
               animation-name: fadeInUp;
-      -webkit-animation-delay: 1.3s;
-              animation-delay: 1.3s;
+      -webkit-animation-delay: 1.0s;
+              animation-delay: 1.0s;
     }
     h5 {
       -webkit-animation-name: fadeInUp;
@@ -482,9 +482,9 @@
     position: relative;
 
     margin-bottom: 0;
-    margin-left: 135px;
+    /*margin-left: 135px;*/
 
-    color: #000000;
+    color: #ffffff;
     @media #{$xs-layout} {
       margin-left: 0;
     }
@@ -492,7 +492,7 @@
       margin-left: 60px;
     }
     &::before {
-      position: absolute;
+      /*position: absolute;
       top: 14px;
       left: -135px;
 
@@ -501,7 +501,7 @@
 
       content: "";
 
-      background-color: #000000;
+      background-color: #000000;*/
       @media #{$xs-layout} {
         display: none;
       }
@@ -525,12 +525,13 @@
     }
   }
   h1 {
-    font-size: 72px;
+    font-size: 45px;
     line-height: 97px;
 
     margin: 6px 0 37px;
 
-    color: #010101;
+    color: #fff;
+    font-weight: 600;
     @media #{$xl-layout} {
       font-size: 60px;
       line-height: 80px;

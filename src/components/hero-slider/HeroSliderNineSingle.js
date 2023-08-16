@@ -12,24 +12,24 @@ const HeroSliderNineSingle = ({ data, sliderClass }) => {
         <div className="row">
           <div className="col-xl-6 col-lg-6 col-md-7">
             <div className="slider-content-2 slider-animated-1">
-              <h3 className="animated">{data.title}</h3>
               <h1
                 className="animated"
                 dangerouslySetInnerHTML={{ __html: data.subtitle }}
               ></h1>
-              <p
-                className="animated"
-                dangerouslySetInnerHTML={{ __html: data.thirdtitle }}
-                style={{fontSize: "20px"}}
-              ></p>
+              <h3 className="animated">{data.title}</h3><br/>
               <div className="slider-btn btn-hover">
                 <Link
                   className="animated"
                   to={process.env.PUBLIC_URL + data.url}
                 >
-                  프로젝트 의뢰하기
+                  필요한 서비스를 찾아보세요
                 </Link>
-              </div>
+              </div><br/>
+              <p
+                className="animated"
+                dangerouslySetInnerHTML={{ __html: data.thirdtitle }}
+                style={{fontSize: "20px", color:"white"}}
+              ></p>
             </div>
           </div>
         </div>

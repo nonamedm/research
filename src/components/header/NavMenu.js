@@ -225,7 +225,22 @@ const NavMenu = ({ menuWhiteClass, sidebarMenu }) => {
           </li> */}
           <li>
             <Link onClick={() => triggerMobileMenu()}>
+              <i class="pe-7s-menu"></i>
+            </Link>
+          </li>
+          <li>
+            <Link to={"/shop-grid-standard"}>
               {t("all_category")}
+            </Link>
+          </li>
+          <li>
+            <Link to={process.env.PUBLIC_URL + "/contact"}>
+              {"이벤트"}
+            </Link>
+          </li>
+          <li>
+            <Link to={process.env.PUBLIC_URL + "/contact"}>
+              {"의뢰"}
             </Link>
           </li>
           <li>

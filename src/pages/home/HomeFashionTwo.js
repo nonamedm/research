@@ -18,7 +18,8 @@ const HomeFashionTwo = () => {
         headerPaddingClass="header-padding-2"
       >
         {/* hero slider */}
-        <HeroSliderNine spaceLeftClass="ml-70" spaceRightClass="mr-70" />
+        {/* <HeroSliderNine spaceLeftClass="ml-70" spaceRightClass="mr-70" /> */}
+        <HeroSliderNine />
         {/* banner */}
         {/* <BannerOne spaceTopClass="pt-60" spaceBottomClass="pb-65" /> */}
         {/* tab product */}
