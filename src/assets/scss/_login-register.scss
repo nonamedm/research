@@ -78,7 +78,7 @@
           .login-toggle-btn {
             padding: 10px 0 19px;
             label {
-              color: #242424;
+              color: #333;
               font-size: 15px;
               font-weight: 400;
               @media #{$xs-layout} {
@@ -86,7 +86,7 @@
               }
             }
             a {
-              color: #242424;
+              color: #ffffff;
               float: right;
               font-size: 15px;
               @media #{$xs-layout} {
@@ -99,10 +99,11 @@
             }
           }
           button {
-            background-color: #f2f2f2;
+            background-color: #404040;
             border: medium none;
-            color: #333;
+            color: #ffffff;
             cursor: pointer;
+            width: 100%;
             font-size: 14px;
             font-weight: 500;
             line-height: 1;
@@ -110,7 +111,7 @@
             text-transform: uppercase;
             transition: all 0.3s ease 0s;
             &:hover {
-              background-color: $theme-color;
+              background-color: #404040;
               color: #fff;
             }
           }
