@@ -15,9 +15,18 @@ const IconGroup = ({ iconWhiteClass }) => {
     );
     offcanvasMobileMenu.classList.add("active");
   };
+
+  const logoutClick = e => {
+    var sessionStorage = window.sessionStorage;
+    sessionStorage.removeItem("loginId");
+    sessionStorage.removeItem("loginName");
+    window.location.href="/";
+  };
   const { compareItems } = useSelector((state) => state.compare);
   const { wishlistItems } = useSelector((state) => state.wishlist);
   const { cartItems } = useSelector((state) => state.cart);
+  var sessionStorage = window.sessionStorage;
+  var loginName = sessionStorage.getItem("loginName");
 
   return (
     <div className={clsx("header-right-wrap", iconWhiteClass)} >
@@ -42,21 +51,41 @@ const IconGroup = ({ iconWhiteClass }) => {
           <i className="pe-7s-user-female" />
         </button>
         <div className="account-dropdown">
-          <ul>
-            <li>
-              <Link to={process.env.PUBLIC_URL + "/login-register"}>Login</Link>
-            </li>
-            <li>
-              <Link to={process.env.PUBLIC_URL + "/login-register"}>
-                Register
-              </Link>
-            </li>
-            <li>
-              <Link to={process.env.PUBLIC_URL + "/my-account"}>
-                my account
-              </Link>
-            </li>
-          </ul>
+          {
+            loginName != null ? 
+            <ul>
+              <li>
+                {loginName}
+              </li>
+              <li>
+                <Link to={process.env.PUBLIC_URL + "/my-account"}>
+                  my account
+                </Link>
+              </li>
+              <li>
+                <Link onClick={e => logoutClick(e)}>
+                  Log out
+                </Link>
+              </li>
+            </ul>
+
+            :
+            <ul>
+              <li>
+                <Link to={process.env.PUBLIC_URL + "/login-register"}>Login</Link>
+              </li>
+              <li>
+                <Link to={process.env.PUBLIC_URL + "/login-register"}>
+                  Register
+                </Link>
+              </li>
+              <li>
+                <Link to={process.env.PUBLIC_URL + "/my-account"}>
+                  my account
+                </Link>
+              </li>
+            </ul>
+          }
         </div>
       </div>
       <div className="same-style header-compare">

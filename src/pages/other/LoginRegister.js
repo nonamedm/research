@@ -16,19 +16,24 @@ const LoginRegister = () => {
     e.preventDefault();
     try{
       const response = await axios.post('/login',formData);
-      console.log(response.data);
-      if(response.data==1) {
+      // console.log(response.data);
+      if(response.data.msg==1) {
         alert("이메일을 확인해 주세요.");
-      } else if(response.data==2) {
+      } else if(response.data.msg==2) {
         alert("비밀번호를 확인해 주세요.");
       } else {
-        alert("***님 반갑습니다!");
-        // window.location.reload();
+        alert(response.data.userName+"님 반갑습니다!");
+        let sessionStorage = window.sessionStorage;
+        sessionStorage.setItem("loginId", response.data.userId);
+        sessionStorage.setItem("loginName", response.data.userName);
+        window.location.href="/";
+
       }
     } catch(error){
       console.error(error);
     }
   }
+
   const registerSubmit = async(e) => {
     e.preventDefault();
     try{
